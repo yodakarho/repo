@@ -1,0 +1,70 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+repo = 'Shougo/vimproc.vim'
+build = 'make'
+
+[[plugins]]
+repo = 'Shougo/neosnippet-snippets'
+
+[[plugins]]
+repo    = 'vim-airline/vim-airline'
+depends = ['vim-airline-themes']
+
+[[plugins]]
+repo    = 'ryanoasis/vim-devicons'
+
+[[plugins]]
+repo = 'vim-airline/vim-airline-themes'
+
+[[plugins]]
+repo = 'majutsushi/tagbar'
+
+#vimfilerを使うために必要
+[[plugins]]
+repo =  'Shougo/unite.vim'
+
+#ディレクトリ表示
+[[plugins]]
+repo = 'Shougo/vimfiler'
+
+#ディレクトリ表示
+[[plugins]]
+repo = 'scrooloose/nerdtree'
+
+#Git
+[[plugins]]
+repo = 'tpope/vim-fugitive'
+[[plugins]]
+repo = 'airblade/vim-gitgutter'
+
+[[plugins]]
+repo = 'vim-scripts/vcscommand.vim'
+
+[[plugins]]
+repo = 'glidenote/memolist.vim'
+
+[[plugins]]
+repo = 'w0rp/ale'
+
+[[plugins]]
+repo = 'dhruvasagar/vim-table-mode'
+
+[[plugins]]
+repo = 'mattn/sonictemplate-vim'
+
+[[plugins]]
+repo = 'reireias/vim-cheatsheet'
+
+[[plugins]]
+repo = 'simeji/winresizer'
+
+[[plugins]]
+repo = 'mattn/sonictemplate-vim'
+
+[[plugins]]
+repo = 'suan/vim-instant-markdown'
+
+[[plugins]]
+repo = 'prettier/vim-prettier'

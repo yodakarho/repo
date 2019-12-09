@@ -1,0 +1,3 @@
+{'repo': v:val.repo, 'rev': get(v:val, 'rev', '')}
+0
+[{'rev': '', 'repo': '/home/kyosuke1224y/.cache/dein/repos/github.com/Shougo/dein.vim'}, {'rev': '', 'repo': 'Shougo/neosnippet-snippets'}, {'rev': '', 'repo': 'Shougo/neosnippet.vim'}, {'rev': '01203d4c9', 'repo': 'Shougo/deol.nvim'}]
